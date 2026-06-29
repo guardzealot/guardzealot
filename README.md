@@ -1,25 +1,22 @@
 # 🚀 Welcome to SungJune Park's GitHub
 
-<p align="left">
-  <a href="https://github.com/cometscome">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Undergraduate+Computer+Engineering+Student;Hongik+University+(23.03+~)" alt="Typing SVG" />
-  </a>
-</p>
+<!-- 클릭 링크([ ]와 ( ))를 완전히 제거하고 이미지 태그만 남겼습니다 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39D353&width=500&lines=Undergraduate+Computer+Engineering;Hongik+University+(23.03+~)" alt="Typing SVG" />
 
 ---
 
 ### 📖 About Me
 * 🎓 **Hongik University** | Computer Engineering (Admission: 2023.03)
 * 🌱 I'm constantly learning new technologies and improving my development workflow.
-* ✉️ **Contact:** spang0310@gmail.com
 
 ---
 
-### 🗂️ Core Capabilities
-* **Languages & Tools:** C++, Git
-* **Interests:** Logic Circuit Design, System Architecture
+### 🛠️ Tech Stacks
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 ---
 
-### 🟢 Contribution Graph
-🎨 *꾸준히 잔디를 심어가는 중입니다.*
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=본인의_깃허브_아이디&show_icons=true&theme=vivid&hide_border=true" alt="SungJune's GitHub Stats" />
+</p>
