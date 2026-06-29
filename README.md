@@ -11,7 +11,7 @@
 ### 📖 About Me
 * 🎓 **Hongik University** | Computer Engineering (Admission: 2023.03)
 * 🌱 I'm constantly learning new technologies and improving my development workflow.
-* ✉️ **Contact:** [본인 이메일 주소]
+* ✉️ **Contact:** spang0310@gmail.com
 
 ---
 
