@@ -1,18 +1,25 @@
-## My name is SungJune Park. I am an undergraduate computer engineering student at Hongik University. Welcome to my GitHub.
+# 🚀 Welcome to SungJune Park's GitHub
 
-# Hongik University Computer Engineering
-# 23.03 ~
-<!--
-**guardzealot/guardzealot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/cometscome">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Undergraduate+Computer+Engineering+Student;Hongik+University+(23.03+~)" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 About Me
+* 🎓 **Hongik University** | Computer Engineering (Admission: 2023.03)
+* 🌱 I'm constantly learning new technologies and improving my development workflow.
+* ✉️ **Contact:** [본인 이메일 주소]
+
+---
+
+### 🗂️ Core Capabilities
+* **Languages & Tools:** C++, Git
+* **Interests:** Logic Circuit Design, System Architecture
+
+---
+
+### 🟢 Contribution Graph
+🎨 *꾸준히 잔디를 심어가는 중입니다.*
