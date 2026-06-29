@@ -1,5 +1,7 @@
-## Hi there 👋
+## My name is SungJune Park. I am an undergraduate computer engineering student at Hongik University. Welcome to my GitHub.
 
+# Hongik University Computer Engineering
+# 23.03 ~
 <!--
 **guardzealot/guardzealot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
